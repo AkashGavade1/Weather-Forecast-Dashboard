@@ -14,4 +14,5 @@ This Power BI dashboard showcases weather forecasts for 5-6 cities using Weather
 - Temperature, humidity, wind-speed tracking
 
 ## 📁 File
+- `dashboard-preview.png`: Screenshot of the dashboard:
 - `WeatherForecastDashboard.pbix`: Main Power BI project file
